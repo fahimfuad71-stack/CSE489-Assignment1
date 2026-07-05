@@ -41,7 +41,6 @@ two keypad layouts for portrait and landscape modes.
 
 However, I tested the final app myself and made sure it worked before submission. 
 
-
 ------------------------------------------------------------
 4. AI-ASSISTED SECTIONS
 ------------------------------------------------------------
@@ -61,8 +60,4 @@ I declare that:
 - I take full responsibility for my submission
 
 Signature: _______________________
-Date: ___________________________
-
-============================================================
-Save as: docs/AI_Declaration.txt
-============================================================
+Date: 05/07/2026
