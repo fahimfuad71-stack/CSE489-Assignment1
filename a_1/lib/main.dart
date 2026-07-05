@@ -49,6 +49,11 @@ class _VangtiPageState extends State<VangtiPage> {
 
   void pressNumber(String n) {
     setState(() {
+
+      if (input.isEmpty && n == '0') {
+        return;
+      }
+
       if (input.length < 8) {
         input = input + n;
       }
