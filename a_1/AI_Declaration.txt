@@ -1,0 +1,68 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name:Fahim Montasir
+Student ID:23141013
+Assignment:1
+Date:05/07/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[✓] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[✓] Learning/understanding concepts
+[✓] Debugging my code
+[✓] Generating code snippets
+[ ] Writing text content
+[✓] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I took the help of AI when I was unable to install and setup the environment (flutter and app studio) 
+to run the app properly. I tried watching tutorials but they were kinda outdated so I used AI. 
+I also took the help of AI a bit to design the UI of the app and make it closer to the given screenshots. 
+Moreover, I used AI to code certain  parts like keypad creation. At first I tried to make only one numpadm 
+but it did not work properly for both screen layouts. The asked Ai to help and it suggested to make 
+two keypad layouts for portrait and landscape modes.
+
+However, I tested the final app myself and made sure it worked before submission. 
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: lib/main.dart Section: keypad() function
+File: lib/main.dart Section: portraitDesign() and landscapeDesign()
+File: lib/main.dart Section: UI spacing and layout matching the given screenshots
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: _______________________
+Date: ___________________________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
