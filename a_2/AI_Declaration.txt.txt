@@ -1,0 +1,70 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Fahim Montasir
+Student ID: 23141013
+Assignment: 2
+Date: 19/07/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[✓] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[✓] Learning/understanding concepts
+[✓] Debugging my code
+[✓] Generating code snippets
+[ ] Writing text content
+[✓] Design/styling ideas
+[ ] Image generation
+[✓] Other: Flutter, Android Studio, Java, Gradle, and GitHub setup guidance
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used AI when I had problems setting up Flutter, Android Studio, Java, and Gradle. 
+AI also helped me fix errors in the project.
+
+I took some help with the Java broadcast receiver and the connection between Dart and Java. 
+I also received small suggestions for the app layout and media player code.
+
+The main app idea and required features came from the assignment. I tested the app myself. 
+I also studied the AI-assisted code and understood how it works before submission.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: lib/main.dart
+Section: MethodChannel connection and some UI code
+
+File: android/app/src/main/java/com/example/cse489_assignment_2_23141013/MainActivity.java
+Section: Custom broadcast receiver and battery receiver
+
+Other assistance:
+Flutter setup, Java and Gradle error fixing, and GitHub upload guidance
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand the main logic and structure of the code in my submission
+- I reviewed and learned the AI-assisted sections
+- I can explain and modify my work if asked
+- I tested the final application myself
+- I take full responsibility for my submission
+
+Signature: _______________________
+Date: 19/07/2026
